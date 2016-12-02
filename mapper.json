@@ -1,0 +1,12 @@
+{
+	"WRB": {
+		"when" : "date",
+		"where" : "place",
+		"who" : "person"
+	},
+
+	"typeProperty" :{
+		"property" : "dbp",
+		"ontology" : "dbo"
+	}
+}
